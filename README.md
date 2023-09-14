@@ -1,0 +1,1 @@
+![say_hello workflow](https://github.com/rasskazovilya/hexlet-my-first-workflow/actions/workflows/say_hello.yml/badge.svg)
